@@ -1,0 +1,13 @@
+{
+  "name": "smart-lender",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Lender is a complete, production-ready machine learning-powered web application that predicts the creditworthiness of loan applicants.",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
